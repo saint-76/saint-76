@@ -1,8 +1,7 @@
 Hello!
 
-Within this project, you will be demostrating the use of FIR Filters and how to create Piano sounds from a breadboard circuit to an MSP432 microcontroller. 
 This project was an implementation from a professor at CSUF and who is fluent in DSPs.
-For the following will be snippet from the project description and steps of what is needed to be done to complete the project.
+For the following will be snippets from the project description and steps of what is needed to be done to complete the project.
 By all means I am not taking credit for the project instructions and the creation of the project. I am just showing the way I have completed the project
 and my set of code for the completion of the project. This will also entitle you to create a circuit that I will not be showing as this is the sole purpose of the code
 I created to demonstrate the functionality of the project.

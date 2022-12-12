@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Humberto
+- 👀 I’m interested in playing video games and working out
+- 🌱 I’m currently learning electrical engineering and working on embedded systems
+- 💞️ I’m looking to collaborate on future hardware development utilizing either Embedded C and Assembly Language
+- or VHDL/Verilog

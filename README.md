@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Humberto
-- 👀 I’m interested in playing video games and working out
-- 🌱 I’m currently learning electrical engineering and working on embedded systems
-- 💞️ I’m looking to collaborate on future hardware development utilizing either Embedded C and Assembly Language
+- Hi, my name is Humberto Portillo.
+- I’m interested in playing video games and working out.
+- I’m currently earning a master's in electrical engineering and working on embedded systems.
+- I’m looking to collaborate on future hardware development utilizing either Embedded C and Assembly Language
 - or VHDL/Verilog
+- I am also trying to obtain certificates in regards to software skills such as C++, Python, HTML, and Javascript.
